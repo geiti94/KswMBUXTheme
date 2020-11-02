@@ -36,3 +36,10 @@ To use this on Linux, make sure Java is installed and then you are able to make 
 When you are done, in the folder housing `compile-linux.sh` you will need to open a Terminal window and type `chmod +x compile-linux.sh`, then you can type `./compile-linux.sh` and it will automatically compile and sign an overlay APK for you!
 
 To install, enter `chmod +x kswoverlay-installer_linux.sh` then run `./kswoverlay-installer_linux.sh`.
+
+# Picture Sources and Credits
+Rudy from Discord: Base images + Background PSD files
+Nicholas Chum: KswOverlay Base + App, Carplay, Music, Navigation and Phone Base Icons
+dreamstime.com: For Video Icon
+Mercedes: Comfort Icon from MBUX Freshup3 CFF Flash File
+
