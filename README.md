@@ -39,7 +39,10 @@ To install, enter `chmod +x kswoverlay-installer_linux.sh` then run `./kswoverla
 
 # Picture Sources and Credits
 Rudy from Discord: Base images + Background PSD files
+
 Nicholas Chum: KswOverlay Base + App, Carplay, Music, Navigation and Phone Base Icons
+
 dreamstime.com: For Video Icon
+
 Mercedes: Comfort Icon from MBUX Freshup3 CFF Flash File
 
